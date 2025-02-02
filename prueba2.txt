@@ -1,0 +1,8 @@
+def hello():  
+    return "Buenas noches"
+
+def greeting():  
+    return "¿Cuál es el colmo de un programador? Tener más bugs en la vida que en el código"
+
+def greeting():  
+    return "Chistaco"
