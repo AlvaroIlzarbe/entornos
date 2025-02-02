@@ -6,3 +6,6 @@ def greeting():
 
 def greeting():  
     return "Chistaco"
+
+def new_function():
+    return "Actualización de la situación"
