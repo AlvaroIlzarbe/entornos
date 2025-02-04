@@ -2,6 +2,7 @@
 - Chacon, S. and Straub, B. Pro Git. Apress.
 - Loeliger, J. and McCullough, M. Version control with Git. O'Reilly.
 - Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
+- Bryant, R., & O’Sullivan, B. (2016). Git in Practice: Includes 66 techniques. Manning Publications.
 =======
  - Scott Chacon and Ben Straub. Pro Git. Apress. - Ryan Hodson. Ry's Git Tutorial. Smashwords (2014)[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D
 [C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
